@@ -1,0 +1,72 @@
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\App.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1_MarkupCompile.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1_MarkupCompile.lref
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.exe
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.exe.config
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.exe
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\SettingsWindow.baml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.g.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.Properties.Resources.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.GenerateResource.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamWindow.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamsWindow.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamWindow.baml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamsWindow.baml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.CopyComplete
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Controls\PlayerControlUC.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Controls\PlayerControlUC.baml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\PlayerInformation.g.cs
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\Windows\PlayerInformation.baml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\bin\Debug\en\WPF1.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.Properties.Resources.en.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WPF1\obj\Debug\en\WPF1.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.exe.config
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.exe
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WPF1.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\en\WPF1.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\bin\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Controls\PlayerControlUC.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\PlayerInformation.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamWindow.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamsWindow.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\App.g.cs
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1_MarkupCompile.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1_MarkupCompile.lref
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Controls\PlayerControlUC.baml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\PlayerInformation.baml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamWindow.baml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\SettingsWindow.baml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\Windows\TeamsWindow.baml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.g.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.Properties.Resources.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.Properties.Resources.en.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.GenerateResource.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\en\WPF1.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.csproj.CopyComplete
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.exe
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WPF1\obj\Debug\WPF1.pdb

@@ -1,0 +1,18 @@
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\obj\Debug\Data.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\Data\obj\Debug\Data.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\obj\Debug\Data.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\Data\obj\Debug\Data.pdb

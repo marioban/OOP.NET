@@ -1,0 +1,56 @@
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.LoadingControl.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.PlayerControl.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.GamesInformationForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.GoalsStatsForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.LoadingForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.SettingsForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.TeamForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.YellowCardsStatsForm.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Resources.en.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Resources.hr-HR.resources
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\MarioB\Desktop\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.PlayerControlYC.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Data.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Data.pdb
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.LoadingControl.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.PlayerControl.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Controls.PlayerControlYC.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.GamesInformationForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.GoalsStatsForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.LoadingForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.SettingsForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.TeamForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.YellowCardsStatsForm.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Resources.en.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.Resources.hr-HR.resources
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\en\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\hr-HR\WindowsFormsApp.resources.dll
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\MarioB\Desktop\Faks\2.godina\OOP.NET 2nd try\MarioBanOOP.NET\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
